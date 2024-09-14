@@ -1,0 +1,4 @@
+Cloud Computing:-
+  cloud computing is used by developers to store their data
+  Types of cloud computing are
+1) Public 2)private 3)community
